@@ -2,6 +2,7 @@
 Framework to scrape info off Resumes
 
 
-if you need to install pdf miner on virtualenv
+If you need to install pdfminer on virtualenv:
 
-cd pdf
+cd pdfminer-20140328
+python setup.py
